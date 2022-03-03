@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Noy!</h1>
-<h3 align="center">A Full-Stack developer from Israel!</h3>
+<h1 align="center">Hi 👋, I'm Noy.</h1>
+<h3 align="center">A Full-Stack developer from Israel.</h3>
 
-- 🔭 I’m currently working on a website builder inspired by "Wix"! [WEBzone](https://webzone-app.herokuapp.com/)
+- 🔭 I’m currently working on a website builder inspired by "Wix" - [WEBzone](https://webzone-app.herokuapp.com/)
 
-- 🌱 I’m currently mastering as many skills as i can! **React.js, Vue.js, Node.js, JS, HTML5, CSS3, Sass**
+- 🌱 I’m looking to master as many skills as I can, such as **React.js, Vue.js, Node.js, JS, HTML5, CSS3, Sass**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noy25?tab=repositories](https://github.com/Noy25?tab=repositories)
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/noy morgenshtein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noy morgenshtein" height="30" width="40" /></a>
-<a href="https://fb.com/noy morgenshtein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noy morgenshtein" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/noy-morgenshtein-260032231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noy-morgenshtein-260032231" height="30" width="40" /></a>
+<a href="https://fb.com/noy.morgenshtein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noy.morgenshtein" height="30" width="40" /></a>
 <a href="https://instagram.com/noy_m56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noy_m56" height="30" width="40" /></a>
 </p>
 
