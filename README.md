@@ -9,7 +9,7 @@
 
 - 📫 You can reach me in **noy9630@gmail.com**
 
-- ⚡ Fun fact **I never thought I would fall in love with coding!**
+- ⚡ Fun fact - **I started learning code for my previous job, it was in Object Pascal.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
